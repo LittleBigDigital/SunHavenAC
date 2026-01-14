@@ -1,4 +1,4 @@
-# Stardew Valley Animation Cancelling for macOS
+# Sun Haven (Game) Animation Cancelling for macOS
 
 ## Before running
 
@@ -6,8 +6,8 @@ Add this application to System Settings -> Privacy & Security -> Accessibility, 
 
 ## How to use
 
-1. Middle mouse (scrollwheel, or "button 3") click will perform a left mouse button click, followed by a 200ms pause, then the animiation cancel routine (R + RightShift + Delete).
-2. Holding the middle mouse down will re-trigger the behaviour repeatedly (left click, 200ms pause, R + RightShift + Delete) until it is released.
+1. Middle mouse (scrollwheel, or "button 3" by default. Adjustable) click will perform a left mouse button click, followed by a 200ms pause (by default. Adjustable), then the animation cancel routine (X, 20ms Pause, Z, 120ms Pause).
+2. Holding the middle mouse down will re-trigger the behaviour repeatedly (left click then animation cancel) until it is released.
 3. A slider allows precise setting of a millisecond pause between trigger and animation cancel key sequence
 4. Option to specify a trigger of any keyboard key (except Esc) or mouse button (except left click) and will capture modifier key states also (Ctrl, CMD, Option & Shift)
 
